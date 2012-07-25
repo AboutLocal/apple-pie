@@ -11,7 +11,7 @@
   * Cairo (sudo apt-get install libcairo2-dev libjpeg8-dev)
 
 ##Installation
-  cd lib/node-canvas-svg/deps/node-canvas
-  make
-  cd ../node-overload
-  make
+    cd lib/node-canvas-svg/deps/node-canvas  
+    make  
+    cd ../node-overload  
+    make
