@@ -1,0 +1,15 @@
+[submodule "deps/vargs"]
+	path = deps/vargs
+	url = https://github.com/cloudhead/vargs.git
+[submodule "deps/jsdom"]
+	path = deps/jsdom
+	url = https://github.com/tmpvar/jsdom.git
+[submodule "deps/node-canvas"]
+	path = deps/node-canvas
+	url = https://github.com/LearnBoost/node-canvas.git
+[submodule "deps/node-overload"]
+	path = deps/node-overload
+	url = https://github.com/bmeck/node-overload.git
+[submodule "deps/node-htmlparser"]
+	path = deps/node-htmlparser
+	url = https://github.com/tautologistics/node-htmlparser.git
