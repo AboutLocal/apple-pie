@@ -4,7 +4,7 @@
   "author": "AboutLocal",
   "description": "converts pie charts to png",
   "dependencies" : {
-    "coffee-script"   :  "1.3.3",
+    "coffee-script"   :  "1.12.7",
     "d3"   :  "2.9.6",
     "htmlparser"   :  "1.7.6"
   }
